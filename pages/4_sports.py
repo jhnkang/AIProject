@@ -15,13 +15,13 @@ with col1:
     st.image("images/sports1.jpg", caption="Running", width=300)
 
 with col2:
-    st.image("images/sports2.jpg", caption="F1", width=300)
+    st.image("images/sports2.jpg", caption="Racing", width=300)
 
 col3, col4 = st.columns(2)
 
 with col3:
-    st.image("images/sport3.jpg", caption="football", width=300)
+    st.image("images/sport3.jpg", caption="Football", width=300)
 
 with col4:
-    st.image("images/sport4.jpg", caption="football", width=300)
+    st.image("images/sport4.jpg", caption="Football", width=300)
 
